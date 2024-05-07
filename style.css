@@ -411,12 +411,6 @@ body {
   padding-bottom: 2em;
 }
 
-.trikar {
-  display: grid;
-  grid-template-columns: 50%;
-  grid-template-rows: 100%;
-}
-
 .section_1 {
   background: transparent;
   flex-grow: 1;
